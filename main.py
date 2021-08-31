@@ -1,13 +1,13 @@
 import adivinhacao
 import forca
 
-def escolhe_jogo():
-
-  def frase_com_detalhe(frase):
+def frase_com_detalhe(frase):
     print("=================================")
     print(frase)
     print("=================================")
     #33 letras
+
+def escolhe_jogo():
 
   frase_com_detalhe("== Bem Vindo a Sala de Jogos!!! =")
 
